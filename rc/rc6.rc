@@ -1,0 +1,12 @@
+#include "rc6.h"
+
+IDR_MAINMENU MENU
+BEGIN
+	POPUP "&File"
+	BEGIN
+		MENUITEM "&New", ID_FILE_NEW
+		MENUITEM "&Open...", ID_FILE_LOAD
+		MENUITEM "&Save...", ID_FILE_SAVE
+		MENUITEM "&Exit", ID_FILE_EXIT
+	END
+END
