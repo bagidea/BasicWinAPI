@@ -1,6 +1,8 @@
 # BasicWinAPI
 This is my basic winAPI and compile by minGW on command line
 
+[![Alt text for your video](http://img.youtube.com/vi/FATUABSuwBc/0.jpg)](https://www.youtube.com/watch?v=FATUABSuwBc)
+
 :: MinGW ::
 
 How to compile. You need install MinGW : http://www.mingw.org/
